@@ -1,3 +1,5 @@
 # Gallery - my first project
-Some remnants of a hacked together gallery. First thing I built while teaching myself JS, PHP, etc. 
-Helps me remember why I decided not to try to freelance as a web developer:)
+Some remnants of a gallery I built for a local artist. 
+The first thing I built while teaching myself
+HTML, CSS, Flexbox, Grid, JS, PHP, BootStrap, JQuery
+
